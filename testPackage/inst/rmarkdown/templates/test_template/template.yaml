@@ -1,0 +1,4 @@
+name: test template
+description: >
+ Test template to see if I can get this to work
+create_dir: true

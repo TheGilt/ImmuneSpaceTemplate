@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+export(test_template)

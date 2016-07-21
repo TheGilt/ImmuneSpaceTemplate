@@ -1,0 +1,17 @@
+{
+    "contents" : "\nbody {\n    background-color: white;\n}\n\nh1 {\n    color: white;\n    text-align: left;\n    padding-left: 70px;\n    padding-top: 20px;\n    padding-bottom: 20px;\n\n    border-left-style: solid;\n    border-left-width: 5px;\n    border-left-color: purple;\n    background-color: blue;\n}\n\np {\n    font-family: \"Times New Roman\";\n    font-size: 20px;\n    color: green;\n}\n\n",
+    "created" : 1468447577819.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1036820209",
+    "id" : "31665559",
+    "lastKnownWriteTime" : 1468450326,
+    "path" : "~/Documents/testPackage/IStpl/inst/rmarkdown/templates/resources/working.css",
+    "project_path" : "IStpl/inst/rmarkdown/templates/resources/working.css",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "css"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "name: test_template\ndescription: >\n Test template to see if I can get this to work\ncreate_dir: true\n",
+    "created" : 1466449520880.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2647130245",
+    "id" : "C0982131",
+    "lastKnownWriteTime" : 1466118916,
+    "path" : "~/Documents/testPackage/IStpl/inst/rmarkdown/templates/template.yaml",
+    "project_path" : "IStpl/inst/rmarkdown/templates/template.yaml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "yaml"
+}

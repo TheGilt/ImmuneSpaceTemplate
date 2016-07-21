@@ -1,0 +1,17 @@
+{
+    "contents" : "template_IS <- function(){\n  css <- system.file(\"rmarkdown/templates/resources/working.css\", package = \"IStpl\")\n  rmarkdown::html_document(css = css)\n}\n",
+    "created" : 1466449546559.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1982805630",
+    "id" : "1CD5A59A",
+    "lastKnownWriteTime" : 1468447566,
+    "path" : "~/Documents/testPackage/IStpl/R/IStpl.R",
+    "project_path" : "IStpl/R/IStpl.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
